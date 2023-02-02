@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/page-not-found/index.jsx"],"names":["PageNotFound","second"],"mappings":"wKAAe,SAASA,EAAaC,GACnC,OAAO","file":"static/js/7.c1a80ceb.chunk.js","sourcesContent":["export default function PageNotFound(second) {\n  return <div>Not found</div>;\n}\n"],"sourceRoot":""}
