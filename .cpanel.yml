@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/presggoj/<app_folder>
+    - export DEPLOYPATH=/home/presggoj/123freemovies.website/
     - /bin/cp -R * $DEPLOYPATH
