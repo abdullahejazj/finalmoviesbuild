@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/presggoj/public_html/
+    - export DEPLOYPATH=/home/presggoj/<app_folder>
     - /bin/cp -R * $DEPLOYPATH
